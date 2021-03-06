@@ -13,3 +13,7 @@ Updates made on master on Github before rebase
 
 Githubda rebaseden önce 
 
+## Purpose
+
+This file is just a readme file
+
