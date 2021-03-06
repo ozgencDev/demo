@@ -9,8 +9,5 @@ Edit on example branch
 
 Now editing on update-readme branch
 
-Updated locally
-Değişti 16.21
-Yeni edit 1.24
-remoteden 27
+Updates made on master on Github before rebase
 
